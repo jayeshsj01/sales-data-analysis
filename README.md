@@ -27,3 +27,21 @@ This project focuses on analyzing sales data to understand business performance 
 - Matplotlib  
 
 ## Project Structure
+
+Sales-Data-Analysis/
+│
+├── analysis.py
+├── sales_data_sample.csv
+├── monthly_sales.png
+├── deal_size.png
+├── product_line.png
+└── countries.png
+
+
+## Outcome
+This project helped me strengthen my data analysis skills, especially in data cleaning, visualization, and extracting business insights from raw datasets.
+
+## Future Improvements
+- Perform the same analysis using SQL  
+- Build an interactive dashboard (Power BI / Tableau)  
+- Add more advanced visualizations and KPIs  
